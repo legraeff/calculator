@@ -1,0 +1,47 @@
+body {
+  color: pink;
+  font-family: verdana;
+  background-color: #996273;
+}
+
+.calculadora {
+  text-align: center;
+  height: 200px;
+  width: 150px;
+  margin: auto;
+  background-color: #721330;
+  border-radius: 10px;
+}
+
+.grupo-botao {
+  width: 120px;
+  text-align: center;
+  margin: auto;
+  padding-top: 10px;
+}
+
+.botao {
+  float: left;
+  width: 30px;
+  cursor: pointer;
+  color: white;
+  background-color: #721330;
+  border: 1px solid #721330;
+}
+
+.botao:hover {
+  background-color: #4C0017;
+}
+
+.grande {
+  width: 120px;
+}
+
+.numeros {
+  width: 100px;
+  border: 1px solid #4C0017;
+}
+
+.shameless-selfpromotion {
+  margin-top: 10px;
+}
